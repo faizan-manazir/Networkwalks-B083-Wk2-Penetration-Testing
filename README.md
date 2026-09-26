@@ -49,7 +49,7 @@ Networkwalks-B082-Week2-Penetration-Testing/
 │
 ├── PM2-GHDB/
 │   ├── GHDB.jpg
-│   └── W2-PM2 - Week2 - Project Module2 - Footp with GHDB v1 - TABLES to fill.docx
+│   └── W2-PM2 - Week2 - Project Module2 - Footp with GHDB v1 - TABLES.docx
 │
 ├── PM3-Maltego/
 │   ├── Maltego_Domain.jpg
@@ -342,6 +342,6 @@ The presence of an exposed technology, hostname, IP address, indexed page or oth
 
 **Faizan Manazir**
 
-Cybersecurity Professional — Networkwalks B082
+Cybersecurity Professional — Networkwalks B083
 
-LinkedIn: https://www.linkedin.com/in/faizan-manazir-38046527/
+LinkedIn: [https://www.linkedin.com/in/faizan-manazir-38046527/](https://www.linkedin.com/in/faizan-manazir-38046527a/)
